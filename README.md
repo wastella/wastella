@@ -1,17 +1,7 @@
-# William Stella - wastella
-* Upcoming Dev 
-* Giant Nerd
-
-Favorite Book - Ender's Game
-
-Favorite Movie - Dark Night
-
-Favorite Programming Language - Python
+# wastella
 
 # Contact Me
 
 Email - william.a.stella@gmail.com
 
 Discord - poett#5603
-
-AOPS - wstella
