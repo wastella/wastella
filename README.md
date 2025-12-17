@@ -1,7 +1,3 @@
-# wastella
+# William Stella
 
-# Contact Me
-
-Email - william.a.stella@gmail.com
-
-Discord - poett#5603
+Check out my (website)[wastella.github.io] for more about me!
